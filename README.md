@@ -30,3 +30,4 @@ paki
 hugur
 pakibhi
 abul
+kasam
