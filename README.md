@@ -34,3 +34,4 @@ kasam
 robiul 
 asadul
 hoque
+shadat
