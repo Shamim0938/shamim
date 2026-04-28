@@ -9,3 +9,4 @@ shadat
 farjaa
 anutair
 shajan
+shaalam
