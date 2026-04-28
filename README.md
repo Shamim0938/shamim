@@ -25,3 +25,4 @@ oziba
 khatun
 jamai
 miaul
+hazari
