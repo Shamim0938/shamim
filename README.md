@@ -28,3 +28,4 @@ miaul
 hazari
 paki
 hugur
+pakibhi
