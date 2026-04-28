@@ -29,3 +29,4 @@ hazari
 paki
 hugur
 pakibhi
+abul
