@@ -27,3 +27,4 @@ jamai
 miaul
 hazari
 paki
+hugur
