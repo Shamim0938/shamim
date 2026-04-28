@@ -26,3 +26,4 @@ khatun
 jamai
 miaul
 hazari
+paki
