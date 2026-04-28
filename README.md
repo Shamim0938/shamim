@@ -22,3 +22,4 @@ fariha
 binte
 samjm
 oziba
+khatun
