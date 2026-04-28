@@ -23,3 +23,4 @@ binte
 samjm
 oziba
 khatun
+jamai
