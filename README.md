@@ -95,3 +95,4 @@ kazi bhi
 alauddin
 kasam babuchi
 jahanara
+nipu fufato
