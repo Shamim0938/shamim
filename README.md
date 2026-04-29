@@ -72,3 +72,4 @@ hoque
 ziaulhoque
 motizil
 goverment
+school and
