@@ -94,3 +94,4 @@ arian bhi
 kazi bhi
 alauddin
 kasam babuchi
+jahanara
